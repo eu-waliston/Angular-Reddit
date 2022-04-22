@@ -25,6 +25,8 @@
   
 </div>
 
-<app-article></app-article>
+<app-article *ngFor="let article of sortdArticles()" [article]="article"></app-article> 
+<!--Basically, NgFor generates a temporary variable foobar and then we’re
+passing it in to app-article-->
 
 <router-outlet></router-outlet>
