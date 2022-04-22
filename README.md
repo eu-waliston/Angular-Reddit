@@ -1,6 +1,6 @@
 # AngularReddit
 
-Aplicação feita com Angualr que se baseia no Reddit, na aplicação  voce será capas de votar e criar artigos 
+Aplicação feita com Angular que se baseia no Reddit, na aplicação  voce será capas de votar e criar artigos 
 
 Link da aplicação 
 
